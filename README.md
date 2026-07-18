@@ -4,9 +4,6 @@ An end-to-end machine learning project that predicts whether a Barcelona Bicing 
 
 The project uses more than **24 million historical station-status snapshots** and combines current availability, recent station history, temporal variables, and location information.
 
-<p align="center">
-  <img src="images/project_overview.png" alt="Project overview" width="900">
-</p>
 
 ## Project overview
 
