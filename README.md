@@ -63,10 +63,6 @@ March was excluded from the main evaluation because station coverage declined se
 | Validation | January 2019 | 2,966,095 | 9.11% |
 | Test | February 2019 | 1,711,745 | 7.42% |
 
-<p align="center">
-  <img src="images/temporal_split.png" alt="Temporal split" width="850">
-</p>
-
 Because only around **9%** of observations were positive, accuracy was not interpreted in isolation.
 
 ## Models compared
